@@ -1,0 +1,6 @@
+E:\Documents\Учеба\Сысой\Лабы\Трухан\Command\Command\bin\Debug\Command.exe.config
+E:\Documents\Учеба\Сысой\Лабы\Трухан\Command\Command\bin\Debug\Command.exe
+E:\Documents\Учеба\Сысой\Лабы\Трухан\Command\Command\bin\Debug\Command.pdb
+E:\Documents\Учеба\Сысой\Лабы\Трухан\Command\Command\obj\Debug\Command.csprojResolveAssemblyReference.cache
+E:\Documents\Учеба\Сысой\Лабы\Трухан\Command\Command\obj\Debug\Command.exe
+E:\Documents\Учеба\Сысой\Лабы\Трухан\Command\Command\obj\Debug\Command.pdb
